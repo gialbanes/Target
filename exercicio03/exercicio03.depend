@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725535725 source:c:\users\giova\onedrive\Área de trabalho\exercicio03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
